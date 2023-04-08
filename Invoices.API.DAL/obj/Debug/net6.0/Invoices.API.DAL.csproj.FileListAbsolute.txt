@@ -1,0 +1,14 @@
+C:\Users\migo\source\repos\Invoices.API.DAL\bin\Debug\net6.0\Invoices.API.DAL.deps.json
+C:\Users\migo\source\repos\Invoices.API.DAL\bin\Debug\net6.0\Invoices.API.DAL.runtimeconfig.json
+C:\Users\migo\source\repos\Invoices.API.DAL\bin\Debug\net6.0\Invoices.API.DAL.dll
+C:\Users\migo\source\repos\Invoices.API.DAL\bin\Debug\net6.0\Invoices.API.DAL.pdb
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.csproj.AssemblyReference.cache
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.AssemblyInfoInputs.cache
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.AssemblyInfo.cs
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.csproj.CoreCompileInputs.cache
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.dll
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\refint\Invoices.API.DAL.dll
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.pdb
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\Invoices.API.DAL.genruntimeconfig.cache
+C:\Users\migo\source\repos\Invoices.API.DAL\obj\Debug\net6.0\ref\Invoices.API.DAL.dll
